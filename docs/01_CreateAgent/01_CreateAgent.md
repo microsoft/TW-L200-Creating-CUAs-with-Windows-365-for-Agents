@@ -1,4 +1,3 @@
-<!-- FILE: exercise-01.md -->
 
 ---
 title: 'Exercise 01: Create and test a computer-using agent by using a template'
