@@ -1,4 +1,3 @@
-
 ---
 title: 'Exercise 01: Create and test a computer-using agent by using a template'
 layout: default
